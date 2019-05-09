@@ -11,7 +11,7 @@ import java.io.*;
 import java.util.*;
 /**
  *
- * @author N@V!D
+ * @author TAWSIF
  */
 public class JavaApplication5 implements ActionListener, KeyListener, MouseListener{
 	static Scanner s;
